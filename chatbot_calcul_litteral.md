@@ -9,7 +9,7 @@ obfuscate: true
 
 Bienvenue sur ton chatbot de révision du calcul littéral !
 
-## Choisis ton niveau de révision :
+# Choisis ton niveau de révision :
 - **Niveau 1** : Débutant
 - **Niveau 2** : Intermédiaire
 - **Niveau 3** : Avancé
